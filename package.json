@@ -21,6 +21,9 @@
     "prepublishOnly": "npm run build",
     "test": "cross-env NODE_ENV=test mocha"
   },
+  "dependencies": {
+    "markovian-nlp": "^3.0.2"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
     "@babel/core": "^7.1.0",
