@@ -3,17 +3,17 @@ import markovianSentences from '../markovianSentences';
 
 const bars = markovianSentences(distribution);
 
-const a1 = bars()(204);
-const b1 = bars()(245);
-const a2 = bars(2)(158);
-
-const bridge = [
-  a2,
-  a1,
-  b1,
-  a2,
-  b1,
-].join('\n');
+const bridge = ([
+  x,
+  y,
+  z,
+]) => ([
+  x,
+  y,
+  z,
+  x,
+  z,
+].join('\n'));
 
 const mapBar4 = seeds => seeds.map(bars(4));
 const choruses = mapBar4([83, 108]);
@@ -39,7 +39,11 @@ const takeOnWreckingBall = () => ([
   verses[1],
   preChorus,
   ...bothChoruses,
-  bridge,
+  bridge([
+    bars(2)(158),
+    bars()(204),
+    bars()(245),
+  ]),
   preChorusHalf,
   ...bothChoruses,
   refrain,
