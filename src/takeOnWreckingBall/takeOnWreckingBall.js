@@ -15,6 +15,7 @@ const bridge = ([
   z,
 ].join('\n'));
 
+// TODO: Extract seeds
 const mapBar4 = seeds => seeds.map(bars(4));
 const choruses = mapBar4([83, 108]);
 const verses = mapBar4([74, 110]);
@@ -40,6 +41,7 @@ const takeOnWreckingBall = () => ([
   preChorus,
   ...bothChoruses,
   bridge([
+    // TODO: Partial application
     bars(2)(158),
     bars()(204),
     bars()(245),
