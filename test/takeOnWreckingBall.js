@@ -2,12 +2,17 @@ import { expect } from 'chai';
 import takeOnWreckingBall from '../src/takeOnWreckingBall';
 import sampleMedia from './sampleMedia';
 
-const { iCantLiveAWreckingBall } = sampleMedia;
+const {
+  iCantLiveAWreckingBall: {
+    lyrics,
+    seeds,
+  },
+} = sampleMedia;
 
 describe('#takeOnWreckingBall', () => {
   describe('#seeded', () => {
     it('should return a deterministic song', () => {
-      expect(takeOnWreckingBall()).to.equal(iCantLiveAWreckingBall);
+      expect(takeOnWreckingBall(seeds)).to.equal(lyrics);
     });
   });
 });
