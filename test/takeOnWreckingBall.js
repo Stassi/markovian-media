@@ -15,4 +15,10 @@ describe('#takeOnWreckingBall', () => {
       expect(takeOnWreckingBall(seeds)).to.equal(lyrics);
     });
   });
+
+  describe('#unseeded', () => {
+    it('should return a nondeterministic song', () => {
+      expect(takeOnWreckingBall()).to.be.a('string');
+    });
+  });
 });
