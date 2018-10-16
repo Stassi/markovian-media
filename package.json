@@ -1,0 +1,58 @@
+{
+  "name": "markovian-media",
+  "version": "1.0.0",
+  "description": "Generate media using Markov chains.",
+  "keywords": [
+    "markov model",
+    "natural language generation",
+    "nlg"
+  ],
+  "license": "MIT",
+  "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
+  "files": [
+    "/lib"
+  ],
+  "main": "./lib/markovian-media.umd.js",
+  "module": "./lib/markovian-media.esm.js",
+  "repository": "github:Stassi/markovian-media",
+  "scripts": {
+    "build": "rollup -c",
+    "lint": "eslint src",
+    "prepublishOnly": "npm run build",
+    "test": "cross-env NODE_ENV=test mocha"
+  },
+  "dependencies": {
+    "markovian-nlp": "^3.0.2",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/register": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "chai": "^4.1.2",
+    "cross-env": "^5.2.0",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "mocha": "^5.2.0",
+    "rollup": "^0.66.6",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-json": "^3.1.0",
+    "rollup-plugin-node-resolve": "^3.4.0",
+    "rollup-plugin-terser": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=6.14.0",
+    "npm": ">=3.10.10"
+  },
+  "browserslist": [
+    "defaults",
+    "maintained node versions"
+  ]
+}

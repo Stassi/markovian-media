@@ -1,0 +1,726 @@
+{
+  "i": {
+    "just": 7,
+    "never": 5,
+    "came": 5,
+    "will": 5,
+    "wanted": 3,
+    "should've": 2,
+    "can't": 2,
+    "guess": 2,
+    "don't": 1,
+    "fell": 1,
+    "put": 1,
+    "_end": 0,
+    "_start": 23
+  },
+  "you": {
+    "ever": 8,
+    "wreck": 4,
+    "you": 2,
+    "to": 2,
+    "in": 2,
+    "anyway": 1,
+    "high": 1,
+    "say": 1,
+    "let": 1,
+    "_end": 6,
+    "_start": 0
+  },
+  "me": {
+    "take": 4,
+    "on": 4,
+    "crouching": 2,
+    "in": 2,
+    "burn": 1,
+    "_end": 10,
+    "_start": 0
+  },
+  "in": {
+    "a": 6,
+    "like": 5,
+    "love": 3,
+    "vain": 1,
+    "the": 1,
+    "_end": 4,
+    "_start": 4
+  },
+  "a": {
+    "wrecking": 5,
+    "day": 4,
+    "blaze": 2,
+    "war": 2,
+    "lie": 2,
+    "love": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "to": {
+    "break": 3,
+    "start": 2,
+    "say": 2,
+    "let": 2,
+    "find": 1,
+    "play": 1,
+    "be": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "all": {
+    "you": 5,
+    "i": 3,
+    "the": 1,
+    "_end": 0,
+    "_start": 8
+  },
+  "on": {
+    "me": 4,
+    "the": 1,
+    "_end": 4,
+    "_start": 0
+  },
+  "break": {
+    "me": 5,
+    "your": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "ever": {
+    "did": 5,
+    "say": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "take": {
+    "on": 4,
+    "me": 4,
+    "_end": 0,
+    "_start": 4
+  },
+  "just": {
+    "walked": 3,
+    "wanted": 2,
+    "closed": 2,
+    "to": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "away": {
+    "_end": 8,
+    "_start": 0
+  },
+  "i'll": {
+    "be": 7,
+    "say": 1,
+    "_end": 0,
+    "_start": 6
+  },
+  "was": {
+    "break": 5,
+    "to": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "say": {
+    "i": 3,
+    "after": 1,
+    "i'll": 1,
+    "it": 1,
+    "_end": 2,
+    "_start": 1
+  },
+  "and": {
+    "swung": 2,
+    "fall": 2,
+    "now": 2,
+    "instead": 1,
+    "ends": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "be": {
+    "gone": 4,
+    "coming": 2,
+    "stumbling": 1,
+    "safe": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "never": {
+    "hit": 3,
+    "meant": 2,
+    "asking": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "yeah": {
+    "you": 4,
+    "i": 2,
+    "_end": 0,
+    "_start": 6
+  },
+  "wrecking": {
+    "ball": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "wanted": {
+    "was": 3,
+    "you": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "always": {
+    "want": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "came": {
+    "in": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "will": {
+    "always": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "want": {
+    "you": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "ball": {
+    "_end": 5,
+    "_start": 0
+  },
+  "your": {
+    "walls": 3,
+    "spell": 1,
+    "love": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "like": {
+    "a": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "love": {
+    "ok": 1,
+    "no": 1,
+    "_end": 3,
+    "_start": 0
+  },
+  "let": {
+    "me": 3,
+    "you": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "did": {
+    "was": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "day": {
+    "or": 4,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "my": {
+    "life": 2,
+    "eyes": 2,
+    "worries": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "or": {
+    "two": 4,
+    "_end": 1,
+    "_start": 0
+  },
+  "wreck": {
+    "me": 4,
+    "_end": 0,
+    "_start": 0
+  },
+  "don't": {
+    "you": 3,
+    "know": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "gone": {
+    "_end": 4,
+    "_start": 0
+  },
+  "life": {
+    "is": 1,
+    "or": 1,
+    "_end": 2,
+    "_start": 0
+  },
+  "the": {
+    "things": 2,
+    "ground": 1,
+    "sky": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "two": {
+    "_end": 4,
+    "_start": 0
+  },
+  "for": {
+    "my": 2,
+    "your": 1,
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "so": {
+    "hard": 3,
+    "needless": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "we": {
+    "chained": 1,
+    "jumped": 1,
+    "kissed": 1,
+    "clawed": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "you're": {
+    "shying": 1,
+    "not": 1,
+    "all": 1,
+    "_end": 0,
+    "_start": 2
+  },
+  "coming": {
+    "for": 2,
+    "down": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "walked": {
+    "away": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "walls": {
+    "_end": 3,
+    "_start": 0
+  },
+  "hard": {
+    "in": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "hit": {
+    "so": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "it": {
+    "slowly": 1,
+    "anyway": 1,
+    "life": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "crouching": {
+    "in": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "should've": {
+    "let": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "running": {
+    "for": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "shying": {
+    "away": 2,
+    "_end": 0,
+    "_start": 1
+  },
+  "slowly": {
+    "learning": 1,
+    "turned": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "closed": {
+    "my": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "things": {
+    "i've": 1,
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "anyway": {
+    "_end": 2,
+    "_start": 0
+  },
+  "we're": {
+    "talking": 1,
+    "ashes": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "start": {
+    "a": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "swung": {
+    "_end": 2,
+    "_start": 0
+  },
+  "blaze": {
+    "and": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "meant": {
+    "to": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "guess": {
+    "i": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "can't": {
+    "live": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "left": {
+    "me": 2,
+    "_end": 0,
+    "_start": 2
+  },
+  "fall": {
+    "_end": 2,
+    "_start": 0
+  },
+  "live": {
+    "a": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "eyes": {
+    "and": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "that": {
+    "life": 1,
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "i'm": {
+    "odds": 1,
+    "to": 1,
+    "_end": 0,
+    "_start": 2
+  },
+  "lie": {
+    "running": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "now": {
+    "you're": 1,
+    "we're": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "war": {
+    "_end": 2,
+    "_start": 0
+  },
+  "ok": {
+    "_end": 2,
+    "_start": 0
+  },
+  "is": {
+    "ok": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "no": {
+    "better": 1,
+    "one": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "stumbling": {
+    "away": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "remember": {
+    "_end": 1,
+    "_start": 1
+  },
+  "learning": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "needless": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "worries": {
+    "away": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "instead": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "today's": {
+    "another": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "another": {
+    "day": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "talking": {
+    "away": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "chained": {
+    "our": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "clawed": {
+    "we": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "asking": {
+    "why": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "turned": {
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "better": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "jumped": {
+    "never": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hearts": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ground": {
+    "_end": 1,
+    "_start": 0
+  },
+  "kissed": {
+    "i": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "under": {
+    "your": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "force": {
+    "_end": 1,
+    "_start": 0
+  },
+  "after": {
+    "me": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "spell": {
+    "_end": 1,
+    "_start": 0
+  },
+  "ashes": {
+    "on": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sorry": {
+    "_end": 1,
+    "_start": 0
+  },
+  "could": {
+    "deny": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "using": {
+    "force": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "it's": {
+    "no": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "play": {
+    "my": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ends": {
+    "_end": 1,
+    "_start": 0
+  },
+  "find": {
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "odds": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "what": {
+    "_end": 1,
+    "_start": 0
+  },
+  "safe": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "than": {
+    "sorry": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "know": {
+    "what": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vain": {
+    "_end": 1,
+    "_start": 0
+  },
+  "i've": {
+    "got": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "deny": {
+    "_end": 1,
+    "_start": 0
+  },
+  "fell": {
+    "under": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "down": {
+    "_end": 1,
+    "_start": 0
+  },
+  "high": {
+    "up": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "burn": {
+    "_end": 1,
+    "_start": 0
+  },
+  "but": {
+    "i'll": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "got": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "not": {
+    "coming": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "put": {
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "one": {
+    "could": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "our": {
+    "hearts": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "why": {
+    "_end": 1,
+    "_start": 0
+  },
+  "sky": {
+    "_end": 1,
+    "_start": 0
+  },
+  "up": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "of": {
+    "using": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "oh": {
+    "the": 1,
+    "_end": 0,
+    "_start": 1
+  }
+}
