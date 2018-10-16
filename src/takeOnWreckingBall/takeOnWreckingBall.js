@@ -105,6 +105,7 @@ const mergeLines = ([
 ];
 
 const takeOnWreckingBall = pipe(
+  (seeds = []) => seeds,
   seedsToBars,
   arrangeBars,
   mergeLines,
