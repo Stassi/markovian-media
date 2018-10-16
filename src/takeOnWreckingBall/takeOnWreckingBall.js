@@ -8,8 +8,8 @@ import {
 import distribution from './distribution';
 import markovianSentences from '../markovianSentences';
 
-const mergeNewlines = join('\n');
-const mergeDoubleNewlines = join('\n\n');
+const joinNewlines = join('\n');
+const joinDoubleNewlines = join('\n\n');
 
 const viewIndex = pipe(lensIndex, view);
 const bars = markovianSentences(distribution);
@@ -86,12 +86,12 @@ const mergeLines = ([
 ]) => [
   a,
   b,
-  mergeNewlines([c, d]),
+  joinNewlines([c, d]),
   e,
   f,
   g,
-  mergeNewlines([h, i]),
-  mergeNewlines([
+  joinNewlines([h, i]),
+  joinNewlines([
     j,
     k,
     l,
@@ -100,7 +100,7 @@ const mergeLines = ([
   ]),
   o,
   p,
-  mergeNewlines([q, r]),
+  joinNewlines([q, r]),
   ...props,
 ];
 
@@ -108,7 +108,7 @@ const takeOnWreckingBall = pipe(
   seedsToBars,
   arrangeBars,
   mergeLines,
-  mergeDoubleNewlines,
+  joinDoubleNewlines,
 );
 
 export default takeOnWreckingBall;
