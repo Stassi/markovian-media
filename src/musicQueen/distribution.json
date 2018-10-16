@@ -1,0 +1,648 @@
+{
+  "the": {
+    "dancing": 6,
+    "bourgeoisie": 3,
+    "people": 3,
+    "rebel": 3,
+    "time": 3,
+    "tambourine": 2,
+    "chance": 2,
+    "music": 2,
+    "beat": 2,
+    "mood": 2,
+    "music's": 1,
+    "lights": 1,
+    "clock": 1,
+    "right": 1,
+    "swing": 1,
+    "wind": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "and": {
+    "the": 5,
+    "when": 4,
+    "sweet": 2,
+    "then": 1,
+    "it": 1,
+    "i": 1,
+    "_end": 0,
+    "_start": 6
+  },
+  "you": {
+    "can": 6,
+    "get": 2,
+    "are": 2,
+    "come": 1,
+    "turn": 1,
+    "_end": 0,
+    "_start": 9
+  },
+  "music": {
+    "makes": 6,
+    "starts": 2,
+    "_end": 3,
+    "_start": 7
+  },
+  "never": {
+    "gonna": 6,
+    "want": 2,
+    "goes": 1,
+    "_end": 0,
+    "_start": 6
+  },
+  "to": {
+    "dance": 3,
+    "stop": 2,
+    "boogie": 1,
+    "have": 1,
+    "look": 1,
+    "go": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "a": {
+    "record": 3,
+    "dance": 2,
+    "teaser": 1,
+    "place": 1,
+    "king": 1,
+    "bit": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "dancing": {
+    "queen": 8,
+    "_end": 0,
+    "_start": 2
+  },
+  "gonna": {
+    "stop": 6,
+    "drive": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "dance": {
+    "with": 3,
+    "_end": 5,
+    "_start": 0
+  },
+  "queen": {
+    "_end": 8,
+    "_start": 0
+  },
+  "stop": {
+    "_end": 8,
+    "_start": 0
+  },
+  "in": {
+    "the": 7,
+    "_end": 1,
+    "_start": 0
+  },
+  "that": {
+    "scene": 3,
+    "girl": 3,
+    "guy": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "i": {
+    "want": 3,
+    "never": 2,
+    "don't": 1,
+    "like": 1,
+    "_end": 0,
+    "_start": 6
+  },
+  "makes": {
+    "the": 6,
+    "_end": 0,
+    "_start": 0
+  },
+  "can": {
+    "dance": 3,
+    "jive": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "want": {
+    "to": 5,
+    "_end": 0,
+    "_start": 0
+  },
+  "for": {
+    "a": 4,
+    "another": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "of": {
+    "your": 3,
+    "yesterday": 1,
+    "rock": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "uh": {
+    "uh": 3,
+    "_end": 2,
+    "_start": 1
+  },
+  "on": {
+    "the": 1,
+    "_end": 4,
+    "_start": 0
+  },
+  "mister": {
+    "dj": 4,
+    "_end": 0,
+    "_start": 0
+  },
+  "you're": {
+    "in": 2,
+    "gone": 1,
+    "a": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "when": {
+    "you": 2,
+    "the": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "with": {
+    "my": 3,
+    "a": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "come": {
+    "together": 3,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hey": {
+    "mister": 4,
+    "_end": 0,
+    "_start": 4
+  },
+  "dig": {
+    "in": 4,
+    "_end": 0,
+    "_start": 4
+  },
+  "ooh": {
+    "see": 3,
+    "_end": 1,
+    "_start": 4
+  },
+  "dj": {
+    "_end": 4,
+    "_start": 0
+  },
+  "bourgeoisie": {
+    "and": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "together": {
+    "_end": 3,
+    "_start": 0
+  },
+  "people": {
+    "come": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "having": {
+    "the": 3,
+    "_end": 0,
+    "_start": 3
+  },
+  "record": {
+    "on": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "scene": {
+    "_end": 3,
+    "_start": 0
+  },
+  "rebel": {
+    "_end": 3,
+    "_start": 0
+  },
+  "watch": {
+    "that": 3,
+    "_end": 0,
+    "_start": 3
+  },
+  "young": {
+    "and": 3,
+    "_end": 0,
+    "_start": 2
+  },
+  "life": {
+    "_end": 3,
+    "_start": 0
+  },
+  "it's": {
+    "gonna": 2,
+    "like": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "time": {
+    "of": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "jive": {
+    "_end": 3,
+    "_start": 0
+  },
+  "girl": {
+    "_end": 3,
+    "_start": 0
+  },
+  "your": {
+    "life": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "baby": {
+    "_end": 3,
+    "_start": 0
+  },
+  "are": {
+    "the": 2,
+    "low": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "put": {
+    "a": 3,
+    "_end": 0,
+    "_start": 3
+  },
+  "see": {
+    "that": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "my": {
+    "baby": 3,
+    "_end": 0,
+    "_start": 0
+  },
+  "tambourine": {
+    "oh": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "everything": {
+    "i'm": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "seventeen": {
+    "_end": 2,
+    "_start": 0
+  },
+  "looking": {
+    "out": 2,
+    "_end": 0,
+    "_start": 2
+  },
+  "starts": {
+    "_end": 2,
+    "_start": 0
+  },
+  "chance": {
+    "_end": 2,
+    "_start": 0
+  },
+  "sweet": {
+    "_end": 2,
+    "_start": 0
+  },
+  "don't": {
+    "think": 1,
+    "look": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "night": {
+    "and": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "crazy": {
+    "_end": 2,
+    "_start": 0
+  },
+  "drive": {
+    "me": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "yeah": {
+    "_end": 2,
+    "_start": 0
+  },
+  "mood": {
+    "for": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "only": {
+    "seventeen": 2,
+    "_end": 0,
+    "_start": 2
+  },
+  "from": {
+    "the": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "like": {
+    "riding": 1,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "look": {
+    "for": 1,
+    "at": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "feel": {
+    "the": 2,
+    "_end": 0,
+    "_start": 2
+  },
+  "beat": {
+    "from": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "out": {
+    "for": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "get": {
+    "the": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "em": {
+    "burning": 1,
+    "on": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "is": {
+    "young": 1,
+    "fine": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "oh": {
+    "yeah": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "it": {
+    "everyday": 1,
+    "never": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "me": {
+    "crazy": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "yesterday": {
+    "_end": 1,
+    "_start": 0
+  },
+  "everyday": {
+    "_end": 1,
+    "_start": 0
+  },
+  "anybody": {
+    "could": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "burning": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "music's": {
+    "high": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "another": {
+    "_end": 1,
+    "_start": 0
+  },
+  "touches": {
+    "everything": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "getting": {
+    "in": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "anyone": {
+    "will": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "boogie": {
+    "woogie": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "woogie": {
+    "uh": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "riding": {
+    "on": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "friday": {
+    "night": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "teaser": {
+    "you": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "lights": {
+    "are": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "where": {
+    "they": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "could": {
+    "be": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "place": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "swing": {
+    "_end": 1,
+    "_start": 0
+  },
+  "leave": {
+    "em": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "think": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "clock": {
+    "_end": 1,
+    "_start": 0
+  },
+  "right": {
+    "music": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "high": {
+    "_end": 1,
+    "_start": 0
+  },
+  "then": {
+    "you're": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "will": {
+    "do": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "rock": {
+    "music": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "wind": {
+    "_end": 1,
+    "_start": 0
+  },
+  "gone": {
+    "_end": 1,
+    "_start": 0
+  },
+  "king": {
+    "_end": 1,
+    "_start": 0
+  },
+  "turn": {
+    "em": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "play": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "they": {
+    "play": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "have": {
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "fine": {
+    "_end": 1,
+    "_start": 0
+  },
+  "goes": {
+    "away": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "away": {
+    "_end": 1,
+    "_start": 0
+  },
+  "low": {
+    "_end": 1,
+    "_start": 0
+  },
+  "guy": {
+    "_end": 1,
+    "_start": 0
+  },
+  "got": {
+    "to": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "i'm": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "bit": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "be": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "do": {
+    "_end": 1,
+    "_start": 0
+  },
+  "at": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "go": {
+    "_end": 1,
+    "_start": 0
+  }
+}
