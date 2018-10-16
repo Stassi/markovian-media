@@ -28,7 +28,6 @@ export default [
   {
     ...options,
     output: {
-      exports: 'named',
       file: 'lib/markovian-media.umd.js',
       format: 'umd',
       name: 'markovianMedia',
