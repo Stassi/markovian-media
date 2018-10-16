@@ -29,7 +29,7 @@ const seedsToSections = ([
   ],
 });
 
-const arrangeBars = ({
+const arrangeSections = ({
   bridge,
   chorus,
   coda,
@@ -55,7 +55,7 @@ const joinDoubleNewlines = join('\n\n');
 const musicQueen = pipe(
   (seeds = []) => seeds,
   seedsToSections,
-  arrangeBars,
+  arrangeSections,
   joinDoubleNewlines,
 );
 
