@@ -31,7 +31,7 @@ export default [
       exports: 'named',
       file: 'lib/markovian-media.umd.js',
       format: 'umd',
-      name: 'markovian',
+      name: 'markovianMedia',
       sourcemap: true,
     },
   }
