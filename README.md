@@ -87,6 +87,29 @@ takeOnWreckingBall(seeds);
 // output: 'i guess i never meant to be gone...'
 ```
 
+## Media catalogue
+Providing methods with `seeds` generates deterministic media. This section lists `seeds` that generate titled works.
+
+### Songs
+title | method | seeds
+----- | ------ | -----
+"I Can't Live a Wrecking Ball" | `takeOnWreckingBall` | `[74, 40, 83, 115, 110, 108, 158, 204, 245]`
+"I Want to Boogie Woogie" | `musicQueen` | `[146, 114, 183, 189, 173, 98, 179, 163]`
+
+## API
+All methods accept `seeds`, an optional [Array][mdn array] of [Numbers][mdn number].
+
+All methods return a [String][mdn string].
+
+method | number of optional `seeds`
+------ | -----
+`musicQueen` | 8
+`takeOnWreckingBall` | 9
+
+ Omit _all_ `seeds` to generate random media.
+
+ Omit _some_ `seeds` to generate a random and deterministic media combination. Substitute any numbers with `null` to randomize those specific seeds (e.g.: `seeds = [1, 2, null, 4]` is 25% random, 75% deterministic).
+
 ## Learn more
 This package is powered by __markovian-nlp__, available on [npm][npm markovian-nlp] and [GitHub][github markovian-nlp].
 
@@ -100,6 +123,12 @@ This package is powered by __markovian-nlp__, available on [npm][npm markovian-n
     (markovian-media license)
 [markovian-media package]: package.json
     (markovian-media package.json)
+[mdn array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+    (MDN JavaScript reference: Array)
+[mdn number]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+    (MDN JavaScript reference: Number)
+[mdn string]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+    (MDN JavaScript reference: String)
 [npm markovian-nlp]: https://www.npmjs.com/package/markovian-nlp
     (npm: markovian-nlp)
 [npm install]: https://www.npmjs.com/get-npm

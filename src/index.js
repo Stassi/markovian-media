@@ -1,3 +1,4 @@
+import musicQueen from './musicQueen';
 import takeOnWreckingBall from './takeOnWreckingBall';
 
-export default { takeOnWreckingBall };
+export default { musicQueen, takeOnWreckingBall };
