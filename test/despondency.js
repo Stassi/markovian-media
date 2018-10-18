@@ -3,7 +3,7 @@ import despondency from '../src/despondency';
 import sampleMedia from './sampleMedia';
 
 const {
-  despondency: {
+  inThoseOfTheUnderstanding: {
     essay,
     seed,
   },
