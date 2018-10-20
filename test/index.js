@@ -6,6 +6,7 @@ describe('main object', () => {
     expect(main).to.have.all.keys(
       'despondency',
       'musicQueen',
+      'reading',
       'takeOnWreckingBall',
     );
   });
