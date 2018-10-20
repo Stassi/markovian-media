@@ -1,6 +1,5 @@
-import despondency from './despondency';
+import { despondency, reading } from './locke';
 import musicQueen from './musicQueen';
-import reading from './reading';
 import takeOnWreckingBall from './takeOnWreckingBall';
 
 export default {

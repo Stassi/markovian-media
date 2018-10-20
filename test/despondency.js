@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import despondency from '../src/despondency';
+import { despondency } from '../src/locke';
 import sampleMedia from './sampleMedia';
 
 const {

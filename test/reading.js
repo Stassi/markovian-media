@@ -1,5 +1,5 @@
 import { expect } from 'chai';
-import reading from '../src/reading';
+import { reading } from '../src/locke';
 import sampleMedia from './sampleMedia';
 
 const {
