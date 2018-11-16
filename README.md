@@ -88,7 +88,13 @@ takeOnWreckingBall(seeds);
 ```
 
 ## Media catalogue
-Providing methods with `seeds` generates deterministic media. This section lists `seeds` that generate titled works.
+Providing methods with optional seeds generates deterministic media. This section lists a `seed` or `seeds` that generate titled works.
+
+### Essays
+title | method | seed
+----- | ------ | ----
+*In Those of the Understanding* | `despondency` | `5003`
+*Reading* | `reading` | `1`
 
 ### Songs
 title | method | seeds
@@ -97,18 +103,27 @@ title | method | seeds
 "I Want to Boogie Woogie" | `musicQueen` | `[146, 114, 183, 189, 173, 98, 179, 163]`
 
 ## API
-All methods accept `seeds`, an optional [Array][mdn array] of [Numbers][mdn number].
+All **essay** methods accept `seed`, an optional [Number][mdn number].
+
+All **song** methods accept `seeds`, an optional [Array][mdn array] of [Numbers][mdn number].
 
 All methods return a [String][mdn string].
 
+### Single-seed methods
+* `despondency`
+* `reading`
+
+Omit `seed` to generate random media.
+
+### Multiple-seed methods
 method | number of optional `seeds`
 ------ | -----
 `musicQueen` | 8
 `takeOnWreckingBall` | 9
 
- Omit _all_ `seeds` to generate random media.
+Omit _all_ `seeds` to generate random media.
 
- Omit _some_ `seeds` to generate a random and deterministic media combination. Substitute any numbers with `null` to randomize those specific seeds (e.g.: `seeds = [1, 2, null, 4]` is 25% random, 75% deterministic).
+Omit _some_ `seeds` to generate a random and deterministic media combination. Substitute any numbers with `null` to randomize those specific seeds (e.g.: `seeds = [1, 2, null, 4]` is 25% random, 75% deterministic).
 
 ## Learn more
 This package is powered by __markovian-nlp__, available on [npm][npm markovian-nlp] and [GitHub][github markovian-nlp].
