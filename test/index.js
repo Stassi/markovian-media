@@ -1,13 +1,16 @@
 import { expect } from 'chai';
-import main from '../src';
+import { musicQueen, takeOnWreckingBall } from '../src';
 
 describe('main object', () => {
-  it('should have all documented API methods as keys', () => {
-    expect(main).to.have.all.keys(
-      'despondency',
-      'musicQueen',
-      'reading',
-      'takeOnWreckingBall',
-    );
+  describe('musicQueen', () => {
+    it('should be a function', () => {
+      expect(musicQueen).to.be.a('function');
+    });
+  });
+
+  describe('takeOnWreckingBall', () => {
+    it('should be a function', () => {
+      expect(takeOnWreckingBall).to.be.a('function');
+    });
   });
 });
