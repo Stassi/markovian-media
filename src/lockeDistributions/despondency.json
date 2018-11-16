@@ -1,0 +1,2630 @@
+{
+  "and": {
+    "therefore": 2,
+    "regular": 2,
+    "what": 2,
+    "that": 2,
+    "sure": 2,
+    "then": 2,
+    "methodically": 1,
+    "disentangle": 1,
+    "transiently": 1,
+    "distinctly": 1,
+    "lingering": 1,
+    "knowledge": 1,
+    "conclude": 1,
+    "confused": 1,
+    "thereby": 1,
+    "orderly": 1,
+    "obvious": 1,
+    "tending": 1,
+    "natural": 1,
+    "lasting": 1,
+    "simple": 1,
+    "though": 1,
+    "large": 1,
+    "those": 1,
+    "fully": 1,
+    "shows": 1,
+    "apply": 1,
+    "shape": 1,
+    "there": 1,
+    "have": 1,
+    "made": 1,
+    "firm": 1,
+    "with": 1,
+    "some": 1,
+    "kept": 1,
+    "are": 1,
+    "too": 1,
+    "the": 1,
+    "can": 1,
+    "lay": 1,
+    "of": 1,
+    "at": 1,
+    "in": 1,
+    "so": 1,
+    "let": 1,
+    "_end": 0,
+    "_start": 4
+  },
+  "the": {
+    "mind": 8,
+    "understanding": 5,
+    "sciences": 2,
+    "truth": 2,
+    "next": 2,
+    "consideration": 1,
+    "agreement": 1,
+    "struggles": 1,
+    "ordinary": 1,
+    "clearing": 1,
+    "business": 1,
+    "thoughts": 1,
+    "handling": 1,
+    "advances": 1,
+    "greatest": 1,
+    "strength": 1,
+    "proverb": 1,
+    "liberty": 1,
+    "getting": 1,
+    "surest": 1,
+    "matter": 1,
+    "ground": 1,
+    "others": 1,
+    "proper": 1,
+    "other": 1,
+    "parts": 1,
+    "first": 1,
+    "doubt": 1,
+    "force": 1,
+    "ideas": 1,
+    "same": 1,
+    "bare": 1,
+    "show": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "in": {
+    "the": 5,
+    "a": 4,
+    "gross": 3,
+    "this": 3,
+    "them": 3,
+    "any": 3,
+    "themselves": 2,
+    "knowledge": 2,
+    "their": 2,
+    "impenetrable": 1,
+    "confusion": 1,
+    "learning": 1,
+    "question": 1,
+    "himself": 1,
+    "things": 1,
+    "effect": 1,
+    "every": 1,
+    "those": 1,
+    "hand": 1,
+    "that": 1,
+    "many": 1,
+    "all": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "to": {
+    "the": 9,
+    "be": 5,
+    "knowledge": 1,
+    "approach": 1,
+    "advance": 1,
+    "flatter": 1,
+    "proceed": 1,
+    "repeat": 1,
+    "excite": 1,
+    "itself": 1,
+    "these": 1,
+    "learn": 1,
+    "carry": 1,
+    "deal": 1,
+    "work": 1,
+    "this": 1,
+    "have": 1,
+    "fly": 1,
+    "him": 1,
+    "set": 1,
+    "go": 1,
+    "my": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "of": {
+    "the": 5,
+    "his": 2,
+    "it": 2,
+    "astonishment": 1,
+    "nothing": 1,
+    "things": 1,
+    "mighty": 1,
+    "steady": 1,
+    "parts": 1,
+    "those": 1,
+    "this": 1,
+    "will": 1,
+    "true": 1,
+    "time": 1,
+    "more": 1,
+    "its": 1,
+    "war": 1,
+    "kin": 1,
+    "our": 1,
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "that": {
+    "the": 3,
+    "in": 3,
+    "which": 2,
+    "mist": 2,
+    "its": 2,
+    "we": 2,
+    "enveloped": 1,
+    "whoever": 1,
+    "depress": 1,
+    "should": 1,
+    "being": 1,
+    "there": 1,
+    "sets": 1,
+    "it": 1,
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "it": {
+    "in": 3,
+    "be": 3,
+    "is": 2,
+    "carries": 1,
+    "thinks": 1,
+    "often": 1,
+    "comes": 1,
+    "holds": 1,
+    "more": 1,
+    "will": 1,
+    "sees": 1,
+    "gets": 1,
+    "was": 1,
+    "let": 1,
+    "one": 1,
+    "_end": 1,
+    "_start": 2
+  },
+  "is": {
+    "possible": 2,
+    "nothing": 2,
+    "but": 2,
+    "in": 2,
+    "principally": 1,
+    "greater": 1,
+    "certain": 1,
+    "above": 1,
+    "these": 1,
+    "firm": 1,
+    "most": 1,
+    "not": 1,
+    "put": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "a": {
+    "question": 2,
+    "distance": 2,
+    "persuasion": 1,
+    "vigorous": 1,
+    "prospect": 1,
+    "confused": 1,
+    "distinct": 1,
+    "learner": 1,
+    "huddle": 1,
+    "simple": 1,
+    "remote": 1,
+    "matter": 1,
+    "sudden": 1,
+    "very": 1,
+    "fair": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "be": {
+    "approached": 1,
+    "discovered": 1,
+    "proposed": 1,
+    "examined": 1,
+    "grappled": 1,
+    "distinct": 1,
+    "wrapped": 1,
+    "indeed": 1,
+    "found": 1,
+    "clear": 1,
+    "jumps": 1,
+    "known": 1,
+    "that": 1,
+    "new": 1,
+    "of": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "he": {
+    "has": 6,
+    "amused": 1,
+    "knows": 1,
+    "could": 1,
+    "sets": 1,
+    "will": 1,
+    "that": 1,
+    "did": 1,
+    "had": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "this": {
+    "experience": 1,
+    "distinct": 1,
+    "seeming": 1,
+    "perhaps": 1,
+    "method": 1,
+    "often": 1,
+    "they": 1,
+    "men": 1,
+    "way": 1,
+    "has": 1,
+    "as": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 4
+  },
+  "as": {
+    "little": 2,
+    "the": 2,
+    "is": 2,
+    "in": 2,
+    "wholly": 1,
+    "nearly": 1,
+    "may": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "but": {
+    "to": 2,
+    "difficulty": 1,
+    "spectres": 1,
+    "separate": 1,
+    "that": 1,
+    "grow": 1,
+    "not": 1,
+    "let": 1,
+    "the": 1,
+    "a": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "than": {
+    "enervate": 1,
+    "several": 1,
+    "others": 1,
+    "serves": 1,
+    "which": 1,
+    "they": 1,
+    "none": 1,
+    "one": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "with": {
+    "a": 2,
+    "anything": 1,
+    "what": 1,
+    "such": 1,
+    "will": 1,
+    "ease": 1,
+    "and": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "mind": {
+    "frights": 1,
+    "carry": 1,
+    "where": 1,
+    "into": 1,
+    "and": 1,
+    "but": 1,
+    "to": 1,
+    "at": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "which": {
+    "he": 2,
+    "should": 1,
+    "before": 1,
+    "there": 1,
+    "yet": 1,
+    "in": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "will": {
+    "remove": 1,
+    "teach": 1,
+    "prove": 1,
+    "hold": 1,
+    "lay": 1,
+    "try": 1,
+    "not": 1,
+    "be": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "them": {
+    "first": 1,
+    "into": 1,
+    "when": 1,
+    "will": 1,
+    "and": 1,
+    "_end": 3,
+    "_start": 0
+  },
+  "they": {
+    "think": 2,
+    "have": 2,
+    "please": 1,
+    "would": 1,
+    "are": 1,
+    "who": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "has": {
+    "never": 2,
+    "tried": 2,
+    "occasionally": 1,
+    "seriously": 1,
+    "been": 1,
+    "till": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "knowledge": {
+    "further": 1,
+    "gained": 1,
+    "lies": 1,
+    "yet": 1,
+    "or": 1,
+    "as": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "what": {
+    "he": 2,
+    "is": 2,
+    "strength": 1,
+    "was": 1,
+    "i": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "when": {
+    "they": 2,
+    "busy": 1,
+    "the": 1,
+    "it": 1,
+    "so": 1,
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "have": {
+    "vanished": 1,
+    "nothing": 1,
+    "taken": 1,
+    "wings": 1,
+    "legs": 1,
+    "said": 1,
+    "not": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "distinct": {
+    "perception": 1,
+    "gradual": 1,
+    "stating": 1,
+    "parts": 1,
+    "but": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "nothing": {
+    "but": 2,
+    "distinctly": 1,
+    "more": 1,
+    "in": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "things": {
+    "in": 2,
+    "remote": 1,
+    "which": 1,
+    "that": 1,
+    "thus": 1,
+    "_end": 0,
+    "_start": 2
+  },
+  "their": {
+    "due": 2,
+    "capacities": 1,
+    "ordinary": 1,
+    "distinct": 1,
+    "own": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "more": {
+    "clear": 2,
+    "strange": 1,
+    "use": 1,
+    "ado": 1,
+    "but": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "not": {
+    "to": 2,
+    "remote": 1,
+    "know": 1,
+    "legs": 1,
+    "only": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "one": {
+    "may": 2,
+    "thing": 1,
+    "from": 1,
+    "who": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "may": {
+    "be": 2,
+    "observe": 1,
+    "seem": 1,
+    "most": 1,
+    "for": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "any": {
+    "difficulties": 1,
+    "progress": 1,
+    "other": 1,
+    "more": 1,
+    "easy": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "at": {
+    "once": 2,
+    "a": 2,
+    "least": 1,
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "i": {
+    "therefore": 1,
+    "appeal": 1,
+    "last": 1,
+    "dare": 1,
+    "have": 1,
+    "ask": 1,
+    "_end": 0,
+    "_start": 3
+  },
+  "understanding": {
+    "raises": 1,
+    "must": 1,
+    "one": 1,
+    "in": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "parts": {
+    "into": 1,
+    "will": 1,
+    "and": 1,
+    "of": 1,
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "other": {
+    "things": 1,
+    "matter": 1,
+    "cases": 1,
+    "side": 1,
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "let": {
+    "it": 3,
+    "that": 1,
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "its": {
+    "own": 2,
+    "progression": 1,
+    "advances": 1,
+    "force": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "own": {
+    "raising": 2,
+    "laziness": 1,
+    "minds": 1,
+    "light": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "on": {
+    "another": 1,
+    "high": 1,
+    "one": 1,
+    "the": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "himself": {
+    "to": 2,
+    "faith": 1,
+    "or": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "should": {
+    "be": 2,
+    "rather": 1,
+    "teach": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "clear": {
+    "and": 2,
+    "light": 1,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "there": {
+    "is": 2,
+    "are": 1,
+    "has": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "legs": {
+    "will": 1,
+    "and": 1,
+    "to": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "our": {
+    "industry": 1,
+    "vigor": 1,
+    "weak": 1,
+    "own": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "are": {
+    "thought": 1,
+    "nothing": 1,
+    "others": 1,
+    "once": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "for": {
+    "answer": 1,
+    "our": 1,
+    "it": 1,
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "so": {
+    "disentangled": 1,
+    "discouraging": 1,
+    "state": 1,
+    "lying": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "or": {
+    "disagreement": 1,
+    "anyone": 1,
+    "making": 1,
+    "at": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "therefore": {
+    "concludes": 1,
+    "take": 1,
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "together": {
+    "and": 1,
+    "in": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "question": {
+    "when": 1,
+    "than": 1,
+    "do": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "another": {
+    "time": 1,
+    "and": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "remote": {
+    "and": 2,
+    "from": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "little": {
+    "better": 1,
+    "should": 1,
+    "at": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "others": {
+    "that": 1,
+    "by": 1,
+    "i": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "matter": {
+    "which": 1,
+    "in": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "itself": {
+    "open": 1,
+    "to": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "these": {
+    "latter": 1,
+    "are": 1,
+    "sit": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "knows": {
+    "already": 1,
+    "what": 1,
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "those": {
+    "parts": 1,
+    "that": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "gross": {
+    "whole": 1,
+    "taken": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "next": {
+    "adjoining": 1,
+    "i.e": 1,
+    "be": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "from": {
+    "another": 1,
+    "it": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "been": {
+    "scared": 1,
+    "no": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "till": {
+    "he": 2,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "once": {
+    "as": 2,
+    "separated": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "into": {
+    "plain": 1,
+    "their": 1,
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "use": {
+    "legs": 1,
+    "of": 1,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "all": {
+    "other": 1,
+    "that": 1,
+    "the": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "yet": {
+    "unknown": 1,
+    "have": 1,
+    "i": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "way": {
+    "for": 1,
+    "to": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "was": {
+    "thought": 1,
+    "found": 1,
+    "awed": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "too": {
+    "faintly": 1,
+    "hard": 1,
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "no": {
+    "knowledge": 1,
+    "other": 1,
+    "more": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "difficulties": {
+    "which": 1,
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "difficulty": {
+    "and": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "experience": {
+    "whether": 1,
+    "should": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "themselves": {
+    "distinct": 1,
+    "when": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "distinctly": {
+    "considered": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "considered": {
+    "is": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "reflected": {
+    "on": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "business": {
+    "for": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "distance": {
+    "from": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "strength": {
+    "of": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "mastered": {
+    "to": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "confused": {
+    "which": 1,
+    "view": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "anything": {
+    "reflected": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ordinary": {
+    "business": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sciences": {
+    "seldom": 1,
+    "or": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "advances": {
+    "greater": 1,
+    "may": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "possible": {
+    "let": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "raising": {
+    "about": 1,
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thought": {
+    "obscure": 1,
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "whether": {
+    "this": 1,
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "because": {
+    "they": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "regular": {
+    "application": 1,
+    "steps": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "obscure": {
+    "perplexed": 1,
+    "must": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "further": {
+    "than": 1,
+    "but": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "advance": {
+    "but": 1,
+    "be": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "greater": {
+    "generally": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "nobody": {
+    "knows": 2,
+    "_end": 0,
+    "_start": 2
+  },
+  "before": {
+    "that": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "simple": {
+    "unperplexed": 1,
+    "questions": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "every": {
+    "step": 1,
+    "one": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "tried": {
+    "them": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "apply": {
+    "the": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "carry": {
+    "the": 1,
+    "us": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "taken": {
+    "up": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "often": {
+    "without": 1,
+    "does": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "light": {
+    "faith": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "cases": {
+    "presently": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "found": {
+    "to": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "order": {
+    "bring": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "still": {
+    "because": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "faith": {
+    "so": 1,
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "never": {
+    "happened": 1,
+    "thus": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "teach": {
+    "shall": 1,
+    "us": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "think": {
+    "they": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "first": {
+    "difficulty": 1,
+    "considered": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "shall": {
+    "overcome": 1,
+    "find": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "truth": {
+    "lies": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "force": {
+    "is": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "easy": {
+    "and": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "most": {
+    "visible": 1,
+    "truly": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "part": {
+    "yet": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "seem": {
+    "very": 1,
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "lies": {
+    "in": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "view": {
+    "seem": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "then": {
+    "what": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "weak": {
+    "parts": 1,
+    "legs": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "very": {
+    "obscure": 1,
+    "slow": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sets": {
+    "himself": 1,
+    "out": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thus": {
+    "offered": 1,
+    "been": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "must": {
+    "advance": 1,
+    "be": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "here": {
+    "again": 1,
+    "is": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "only": {
+    "sits": 1,
+    "go": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "mist": {
+    "appeared": 1,
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sure": {
+    "it": 1,
+    "_end": 1,
+    "_start": 0
+  },
+  "firm": {
+    "limbs": 1,
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "time": {
+    "which": 1,
+    "hale": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "can": {
+    "produce": 1,
+    "soar": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "him": {
+    "especially": 1,
+    "whether": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "who": {
+    "with": 1,
+    "so": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "lay": {
+    "itself": 1,
+    "them": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "men": {
+    "give": 1,
+    "may": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "due": {
+    "order": 2,
+    "_end": 0,
+    "_start": 0
+  },
+  "his": {
+    "mind": 1,
+    "own": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "go": {
+    "further": 1,
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "do": {
+    "because": 1,
+    "no": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "we": {
+    "shall": 1,
+    "meet": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "us": {
+    "through": 1,
+    "how": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "by": {
+    "tallying": 1,
+    "gentle": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "up": {
+    "together": 1,
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "consideration": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "disentangled": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "astonishment": {
+    "left": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "constitution": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "disagreement": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "impenetrable": {
+    "obscurity": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "discouraging": {
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "methodically": {
+    "applied": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "occasionally": {
+    "reflected": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "unperplexed": {
+    "proposition": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "application": {
+    "till": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "confidently": {
+    "affirm": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "progression": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "principally": {
+    "designed": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "proposition": {
+    "belonging": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "transiently": {
+    "viewed": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "disentangle": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "discovered": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "mysterious": {
+    "_end": 1,
+    "_start": 0
+  },
+  "rigorously": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "understood": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "capacities": {
+    "_end": 1,
+    "_start": 0
+  },
+  "especially": {
+    "when": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "persuasion": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "approached": {
+    "by": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "perception": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "confusedly": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "concerning": {
+    "every": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "separated": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "mentioned": {
+    "do": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "questions": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "perplexed": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "conjoined": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "confusion": {
+    "can": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "seriously": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "belonging": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "something": {
+    "of": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "agreement": {
+    "or": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "elsewhere": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "intricate": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "enveloped": {
+    "them": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "presently": {
+    "perceived": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "lingering": {
+    "way": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "struggles": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "perceived": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "generally": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "obscurity": {
+    "_end": 1,
+    "_start": 0
+  },
+  "adjoining": {
+    "part": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "concludes": {
+    "too": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "handling": {
+    "was": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "designed": {
+    "_end": 1,
+    "_start": 0
+  },
+  "industry": {
+    "_end": 1,
+    "_start": 0
+  },
+  "greatest": {
+    "part": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "progress": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "prospect": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vanished": {
+    "when": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "overcome": {
+    "any": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "appeared": {
+    "hideous": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "examined": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "conclude": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "enervate": {
+    "our": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "separate": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "proposed": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "spectres": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "terrible": {
+    "subject": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vigorous": {
+    "constitution": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thoughts": {
+    "rigorously": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "stronger": {
+    "too": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "laziness": {
+    "_end": 1,
+    "_start": 0
+  },
+  "approach": {
+    "nearer": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "bugbears": {
+    "another": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "acquirit": {
+    "eundo": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "reader's": {
+    "experience": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "clearing": {
+    "what": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "happened": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "tallying": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "viresque": {
+    "acquirit": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "learning": {
+    "anything": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "resolves": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "grappled": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "certain": {
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "whoever": {
+    "will": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "strange": {
+    "nor": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "faintly": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "unknown": {
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "perhaps": {
+    "may": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "observe": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "orderly": {
+    "train": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "frights": {
+    "itself": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "despond": {
+    "at": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "liberty": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "applied": {
+    "himself": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "whereas": {
+    "things": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "carries": {
+    "its": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thereby": {
+    "clear": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "gradual": {
+    "growth": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "without": {
+    "any": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "seeming": {
+    "terrible": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "wrapped": {
+    "up": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "getting": {
+    "an": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "stating": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "subject": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "opinion": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "insight": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "proceed": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "already": {
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "through": {
+    "them": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "strides": {
+    "let": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "lasting": {
+    "knowledge": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hideous": {
+    "giants": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vincere": {
+    "vicere": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "learner": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "flatter": {
+    "its": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "several": {
+    "other": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "visible": {
+    "easy": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "obvious": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "natural": {
+    "size": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "tending": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "depress": {
+    "their": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "offered": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "produce": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "proverb": {
+    "use": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "growth": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "amused": {
+    "himself": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sudden": {
+    "opinion": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "gentle": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "surest": {
+    "way": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "wholly": {
+    "mysterious": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "though": {
+    "this": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "steady": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "remedy": {
+    "here": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "appeal": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "serves": {
+    "their": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "putant": {
+    "se": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thinks": {
+    "till": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "latter": {
+    "one": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "answer": {
+    "apply": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "anyone": {
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "viewed": {
+    "confusedly": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vicere": {
+    "_end": 1,
+    "_start": 0
+  },
+  "reduce": {
+    "them": 1,
+    "_end": 0,
+    "_start": 1
+  },
+  "rather": {
+    "serve": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "seldom": {
+    "fails": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "excite": {
+    "our": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "making": {
+    "any": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "huddle": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "indeed": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "scared": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "gained": {
+    "whereas": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "method": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "nearly": {
+    "conjoined": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "repeat": {
+    "here": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "remove": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "mighty": {
+    "difficulties": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "giants": {
+    "not": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "nearer": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "effect": {
+    "no": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ground": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "proper": {
+    "remedy": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "raises": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "affirm": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "better": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "please": {
+    "_end": 1,
+    "_start": 0
+  },
+  "lying": {
+    "together": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "doubt": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "fails": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "prove": {
+    "little": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "steps": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "vigor": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "holds": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "serve": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "eundo": {
+    "_end": 1,
+    "_start": 0
+  },
+  "shape": {
+    "_end": 1,
+    "_start": 0
+  },
+  "learn": {
+    "next": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "again": {
+    "what": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "jumps": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "state": {
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "known": {
+    "concerning": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "being": {
+    "understood": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "thing": {
+    "he": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "would": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "train": {
+    "than": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hours": {
+    "together": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "plain": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "space": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "shows": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "about": {
+    "a": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "truly": {
+    "say": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "could": {
+    "have": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "large": {
+    "strides": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "minds": {
+    "despond": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ideas": {
+    "in": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "above": {
+    "their": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "limbs": {
+    "only": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "since": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "fully": {
+    "mastered": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "whole": {
+    "hours": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "where": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "comes": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "wings": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "least": {
+    "when": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "bring": {
+    "all": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hale": {
+    "been": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "know": {
+    "before": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "kept": {
+    "at": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "some": {
+    "men": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "bare": {
+    "distinct": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "meet": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "such": {
+    "bugbears": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hold": {
+    "_end": 1,
+    "_start": 0
+  },
+  "same": {
+    "space": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "busy": {
+    "on": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "find": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "open": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "grow": {
+    "stronger": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "gets": {
+    "this": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hard": {
+    "for": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "fair": {
+    "view": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sits": {
+    "still": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "said": {
+    "elsewhere": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "long": {
+    "since": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "give": {
+    "more": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "show": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sees": {
+    "nothing": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "step": {
+    "of": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "true": {
+    "knowledge": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "many": {
+    "cases": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "deal": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "side": {
+    "there": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "left": {
+    "but": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "soar": {
+    "on": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "does": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "dare": {
+    "confidently": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "made": {
+    "use": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ease": {
+    "mastered": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "last": {
+    "mentioned": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "upon": {
+    "weak": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "high": {
+    "when": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "take": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "none": {
+    "_end": 1,
+    "_start": 0
+  },
+  "size": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "hand": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "work": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "slow": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "awed": {
+    "with": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "new": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "did": {
+    "not": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "try": {
+    "it": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "say": {
+    "that": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ado": {
+    "resolves": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "i.e": {
+    "as": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "had": {
+    "long": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "how": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "set": {
+    "the": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "kin": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "ask": {
+    "him": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "fly": {
+    "and": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "out": {
+    "upon": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "dum": {
+    "putant": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "nor": {
+    "intricate": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "war": {
+    "dum": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "sit": {
+    "still": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "put": {
+    "to": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "my": {
+    "reader's": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "se": {
+    "vincere": 1,
+    "_end": 0,
+    "_start": 0
+  },
+  "an": {
+    "insight": 1,
+    "_end": 0,
+    "_start": 0
+  }
+}
