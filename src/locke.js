@@ -6,22 +6,14 @@ import {
   reading as readingDist,
 } from './lockeDistributions';
 
-// TODO: Reduce duplication
-export const despondency = pipe(
+const essay = distribution => pipe(
   seed => sentences({
+    distribution,
     seed,
     count: 10,
-    distribution: despondencyDist,
   }),
   formatSentences,
 );
 
-// TODO: Reduce duplication
-export const reading = pipe(
-  seed => sentences({
-    seed,
-    count: 10,
-    distribution: readingDist,
-  }),
-  formatSentences,
-);
+export const despondency = essay(despondencyDist);
+export const reading = essay(readingDist);
