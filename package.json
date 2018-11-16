@@ -22,7 +22,7 @@
     "test": "cross-env NODE_ENV=test mocha"
   },
   "dependencies": {
-    "markovian-nlp": "^3.0.5",
+    "markovian-nlp": "^4.0.0",
     "ramda": "^0.25.0"
   },
   "devDependencies": {
