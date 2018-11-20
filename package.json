@@ -1,6 +1,6 @@
 {
   "name": "markovian-media",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generate media using Markov chains.",
   "keywords": [
     "markov model",
@@ -22,8 +22,8 @@
     "test": "cross-env NODE_ENV=test mocha"
   },
   "dependencies": {
-    "markovian-nlp": "^4.0.0",
-    "ramda": "^0.25.0"
+    "markovian-nlp": "^4.0.1",
+    "ramda": "^0.26.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
@@ -40,7 +40,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.11.1",
     "mocha": "^5.2.0",
-    "rollup": "^0.67.1",
+    "rollup": "^0.67.3",
     "rollup-plugin-babel": "^4.0.3",
     "rollup-plugin-commonjs": "^9.2.0",
     "rollup-plugin-json": "^3.1.0",
