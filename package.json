@@ -1,6 +1,6 @@
 {
   "name": "markovian-media",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Generate media using Markov chains.",
   "keywords": [
     "markov model",
