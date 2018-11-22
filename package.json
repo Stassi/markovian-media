@@ -1,6 +1,6 @@
 {
   "name": "markovian-media",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Generate media using Markov chains.",
   "keywords": [
     "markov model",
@@ -22,7 +22,7 @@
     "test": "cross-env NODE_ENV=test mocha"
   },
   "dependencies": {
-    "markovian-nlp": "^4.1.0",
+    "markovian-nlp": "^4.1.1",
     "ramda": "^0.26.0"
   },
   "devDependencies": {
